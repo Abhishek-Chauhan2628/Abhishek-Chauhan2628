@@ -1,5 +1,5 @@
 # Hi, I'm Abhishek!
-<br>I'm a passionate developer focused on building practical and impactful software. I enjoy working on projects that combine AI, data, and web technologies to solve real-world problems.<br>🚀 Current Projects:<br>🔧 Building intelligent systems using Python<br>📊 Working on a credit score management platform<br>🧠 Exploring AI applications in education and finance<br>💻 Tech Stack:<br>Languages: Python, JavaScript, HTML/CSS<br>Frameworks: Flask, Django, React<br>Tools: Git, VS Code, Docker<br>Interests: AI, machine learning, data visualization, web development<br>📫 Let's connect!<br>Feel free to check out my repositories or reach out for collaboration!
+<br>I'm a passionate developer focused on building practical and impactful software. I enjoy working on projects that combine AI, data, and web technologies to solve real-world problems.<br>🚀 Current Projects:<br>🔧 Building intelligent systems using Python<br>📊 Working on a credit score management platform<br>🧠 Exploring AI applications in education and finance<br>📫 Let's connect!<br>Feel free to check out my repositories or reach out for collaboration!
 
 
 # 💻 Tech Stack:
